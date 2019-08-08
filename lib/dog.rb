@@ -1,10 +1,14 @@
 class Animal
   
-  def initialize(dog_name)
+  def name=(name)
     
-    dog_name = "#{@dog_name}"
+   puts name = "#{@name}"
+    end
+  
+  def breed=(breed)
     
-  end
+   puts breed = "#{breed}"
+    end
   
   
 end
