@@ -1,4 +1,4 @@
-class Animal
+class Dog
   
   def name=(name)
     
