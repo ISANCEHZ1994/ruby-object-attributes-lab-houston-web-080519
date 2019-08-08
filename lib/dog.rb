@@ -2,7 +2,7 @@ class Dog
   
   def name=(name)
     
-   puts name = @name
+   puts "Fido" = @name
     end
   
   def breed=(breed)
@@ -12,3 +12,7 @@ class Dog
   
   
 end
+
+class Person
+  
+  def 
