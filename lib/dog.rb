@@ -19,4 +19,14 @@ class Dog
   
 end
 
-class 
+class Person
+  
+  def name
+    puts @name
+  end
+  
+  def name=(name)
+    puts @name = name
+  end
+  
+end
