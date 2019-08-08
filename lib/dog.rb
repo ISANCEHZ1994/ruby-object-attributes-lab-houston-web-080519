@@ -2,12 +2,12 @@ class Animal
   
   def name=(name)
     
-   puts name = "#{@name}"
+   puts name = @name
     end
   
   def breed=(breed)
     
-   puts breed = "#{@breed}"
+   puts breed = @breed
     end
   
   
