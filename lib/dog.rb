@@ -22,11 +22,11 @@ end
 class Person
   
   def name
-    puts @name
+     @name
   end
   
   def name=(name)
-    puts @name = name
+     @name = name
   end
   
 end
