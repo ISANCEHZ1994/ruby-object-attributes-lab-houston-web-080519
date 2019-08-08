@@ -1,6 +1,6 @@
 class Animal
   
-  def (dog_name)
+  def initialize(dog_name)
     dog_name = "#{@dog_name}"
   end
   
