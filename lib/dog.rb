@@ -9,9 +9,12 @@ class Dog
     end
     
   def breed=(breed)
-    
-   puts breed = @breed
+    puts breed = @breed
     end
+    
+  def breed
+    @breed
+  end
   
   
 end
